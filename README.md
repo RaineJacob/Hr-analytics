@@ -29,8 +29,9 @@ This project analyzes HR data to understand and visualize employee attrition tre
 |-------------------------------------|----------------------------------------|
 | `Employee_Attrition_Analysis.sql`   | SQL queries for all insights           |
 | `Employee_Attrition.pbix`           | Power BI dashboard (2 pages)           |
-| `report.pdf` *(optional)*           | Project summary with screenshots       |
+| `report.pdf`                        | Project summary with screenshots       |
 | `/images/*.png`                     | Screenshots of dashboards              |
+| `Employee.csv`                      | Dataset 
 
 ---
 
