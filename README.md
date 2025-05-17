@@ -41,7 +41,7 @@ This project analyzes HR data to understand and visualize employee attrition tre
 ![Executive Dashboard](executive_dashboard.png)
 
 ### 📌 Deep Dive Dashboard
-![Deep Dive Dashboard](Deep Dive Dashboard.png)
+![Deep Dive Dashboard](Deep_Dive_Dashboard.png)
 
 ---
 
